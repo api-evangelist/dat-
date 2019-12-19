@@ -1,0 +1,50 @@
+{
+    "name": "Dat",
+    "description": "<p>Dat is a grant funded, open source project housed in the US Open Data Institute. While dat is a general purpose tool, we have a focus on open science use cases. The high level goal of the dat project is to build a streaming interface between every database and file storage backend in the world. By building tools to build and share data pipelines we aim to bring to data a style of collaboration similar to what git brings to source code.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/dat.png",
+    "tags": [
+        "api service provider",
+        "data",
+        "data provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dat-\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Dat",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/dat.png",
+            "humanURL": "http:\/\/dat-data.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dat--openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/dat-data.com\/blog"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/datproject"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/dat_project"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dat-data.com\/"
+        }
+    ]
+}
